@@ -15,3 +15,4 @@ let userInfo = {
     }
   };
   
+userInfo.showInfo()
